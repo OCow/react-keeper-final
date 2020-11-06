@@ -9,7 +9,14 @@ html {
 body {
   background: #eee;
   padding: 0 16px;
+
+  background-color: #f0dd7d;
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
+
+
+
 
 header {
   background-color: #f5ba13;
